@@ -10,14 +10,14 @@ Please note that our environment requirements are different from LLaVA's environ
 
 1. Clone this repository and navigate to the folder
 ```bash
-git clone https://github.com/TinyLLaVA/TinyLLaVA_Factory.git
-cd TinyLLaVA_Factory
+git clone https://github.com/SHC/SHC.git
+cd SHC
 ```
 
 2. Create a conda environment, activate it and install Packages
 ```Shell
-conda create -n tinyllava_factory python=3.10 -y
-conda activate tinyllava_factory
+conda create -n shc python=3.10 -y
+conda activate shc
 pip install --upgrade pip  # enable PEP 660 support
 pip install -e .
 ```
