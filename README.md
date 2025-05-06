@@ -1,6 +1,8 @@
 # SHC
+![image](https://github.com/user-attachments/assets/0f9ff4f9-1721-485a-b5d5-430f6aa500c3)
 
-![image](https://github.com/user-attachments/assets/63ba29be-5cce-4af8-ad73-216b0a3eda4a)
+
+
 
 ## Installation and Requirements
 
@@ -67,7 +69,7 @@ Please refer to the [Evaluation](https://tinyllava-factory.readthedocs.io/en/lat
 
 which are trained using the old codebase TinyLLaVABench.
 
-
+![image](https://github.com/user-attachments/assets/63ba29be-5cce-4af8-ad73-216b0a3eda4a)
 
 
 
