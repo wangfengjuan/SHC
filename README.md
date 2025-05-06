@@ -1,5 +1,6 @@
 # SHC
 
+![image](https://github.com/user-attachments/assets/63ba29be-5cce-4af8-ad73-216b0a3eda4a)
 
 ## Installation and Requirements
 
